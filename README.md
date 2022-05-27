@@ -1,4 +1,5 @@
 # guess-game
 
 Game made while learning Rust Language. 
- Lets get rusty
+
+Only basic concepts and structures
